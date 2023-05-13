@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <img width="100%" src="https://github.com/cucumber-turtle/cucumber-turtle/blob/main/images/desk-edit-clean.png" alt="Hi, I'm @cucumber-turtle; Software developer, Designer, Artist. I'm interested in GIS, networked applications, AI/ML, UI/UX, computer networks, and database design." />
+  <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+  <img src="{https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}" />
+  <img src="{https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white}" />
+  <img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
+  <img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
+</div>
 
 <!--
 **cucumber-turtle/cucumber-turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
