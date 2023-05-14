@@ -15,8 +15,11 @@ I'm a software engineering student at Victoria University of Wellington, complet
 - 🔭 I’m working on [Artcade](https://github.com/cucumber-turtle/artcade)  
 - 🌱 I’m currently learning PostgreSQL
 - ⚡ Fun fact: Some of the first aerial images were captured using [pigeons](https://airandspace.si.edu/stories/editorial/birds-eye-viewfinder-160-years-aerial-photography).
-
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cucumber-turtle&show_icons=true&theme=nightowl" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cucumber-turtle&theme=nightowl&layout=compact&exclude_repo=artcade" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cucumber-turtle&rank=-C,-B&theme=algolia&column=3" />
 </div>
