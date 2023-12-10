@@ -11,6 +11,6 @@
 ## About me
 ### _"The best way to predict the future is to create it"_
 I'm a software engineering student at Victoria University of Wellington, completing my study at the end of 2023. 
-- 🔭 I’m working on [Artcade](https://github.com/cucumber-turtle/artcade)  
-- 🌱 I’m currently learning PostgreSQL
-- ⚡ Fun fact: Some of the first aerial images were captured using [pigeons](https://airandspace.si.edu/stories/editorial/birds-eye-viewfinder-160-years-aerial-photography).
+- 🔭 I’m working on a video game with my friends  
+- 🌱 I’m currently learning C#
+- ⚡ Fun fact: One of the oldest paintings found in human history is [45,500 years old](https://news.artnet.com/art-world/indonesia-pig-art-oldest-painting-1937110)!
