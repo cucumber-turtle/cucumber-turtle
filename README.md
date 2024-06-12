@@ -10,7 +10,7 @@
 
 ## About me
 ### _"The best way to predict the future is to create it"_
-I'm a software engineering student at Victoria University of Wellington, completing my study at the end of 2023. 
+I'm a full-time software engineer :) always learning, always thinking of new things to do
 - 🔭 I’m working on a video game with my friends  
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: One of the oldest paintings found in human history is [45,500 years old](https://news.artnet.com/art-world/indonesia-pig-art-oldest-painting-1937110)!
